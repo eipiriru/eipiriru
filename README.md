@@ -45,4 +45,13 @@
 <span style="font-size:12px;color:gray;">_Sometimes coding feels like late autumn wind_<br>
 _cold, quiet, and somehow still pushing me forward._
 </span>
+
+
+
+## Support My Work
+
+If you find my work useful, consider supporting my work.
+Your support helps me maintain existing projects and build new open-source tools.
+
+[![Trakteer](https://img.shields.io/badge/Support%20me-on%20Trakteer-red?style=for-the-badge)](https://trakteer.id/ainurkz)
 </div>
