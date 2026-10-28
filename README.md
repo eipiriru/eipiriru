@@ -50,7 +50,7 @@ _cold, quiet, and somehow still pushing me forward._
 <br><br><br>
 ## Support My Work
 
-If you find my work useful, consider supporting my work.
+If you find my projects useful, consider supporting their development.
 Your support helps me maintain existing projects and build new open-source tools.
 
 <a href="https://trakteer.id/ainurkz" target="_blank">
