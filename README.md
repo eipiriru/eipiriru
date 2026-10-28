@@ -47,11 +47,23 @@ _cold, quiet, and somehow still pushing me forward._
 </span>
 
 
-
+<br><br><br>
 ## Support My Work
 
 If you find my work useful, consider supporting my work.
 Your support helps me maintain existing projects and build new open-source tools.
 
-[![Trakteer](https://img.shields.io/badge/Support%20me-on%20Trakteer-red?style=for-the-badge)](https://trakteer.id/ainurkz)
+<a href="https://trakteer.id/ainurkz" target="_blank">
+  <img
+    id="wse-buttons-preview"
+    src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023"
+    height="40"
+    style="border: 0px; height: 40px; --darkreader-inline-border-top: 0px; --darkreader-inline-border-right: 0px; --darkreader-inline-border-bottom: 0px; --darkreader-inline-border-left: 0px;"
+    alt="Traktir tahu bakso"
+    data-darkreader-inline-border-top=""
+    data-darkreader-inline-border-right=""
+    data-darkreader-inline-border-bottom=""
+    data-darkreader-inline-border-left=""
+  />
+</a>
 </div>
