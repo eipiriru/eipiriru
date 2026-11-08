@@ -35,7 +35,7 @@ _cold, quiet, and somehow still pushing me forward._
 If you find my projects useful, consider supporting their development.
 Your support helps me maintain existing projects and build new open-source tools.
 
-<a href="https://trakteer.id/ainurkz" target="_blank">
+<a href="https://trakteer.id/ainurkz/tip" target="_blank">
   <img
     id="wse-buttons-preview"
     src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023"
