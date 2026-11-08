@@ -24,24 +24,6 @@
 <span style="font-size:12px">_generated with [Platane/snk](https://github.com/Platane/snk)_</span>
 
 ---
-
-<img style="height:32px" src="https://skillicons.dev/icons?i=php&theme=dark" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="32" height="32" />
-<img style="height:32px" src="https://skillicons.dev/icons?i=flask&theme=dark" />
-<img style="height:32px" src="https://skillicons.dev/icons?i=ruby&theme=dark" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="32" height="32" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="32" height="32" />
-<img style="height:32px" src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap&theme=dark" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="32" height="32" />
-<img style="height:32px" src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="32" height="32" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="32" height="32" />
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="32" height="32" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="32" height="32" />
-<img style="height:32px" src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
-
-
----
 <span style="font-size:12px;color:gray;">_Sometimes coding feels like late autumn wind_<br>
 _cold, quiet, and somehow still pushing me forward._
 </span>
