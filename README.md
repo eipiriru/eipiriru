@@ -30,10 +30,10 @@ Things I make
 A few experiments, some unfinished thoughts, and projects worth keeping.
 
 You're welcome to stop by.<br>
-[Yoruuta ↗](https://yoruuta.vercel.app/) · 
-[Sasayaki ↗](https://sasayaki-lrclib-publisher.vercel.app/) · 
-[Yoruuta-ext ↗](https://chromewebstore.google.com/detail/lrclib-lyrics-for-youtube/ednmohnomlpjchgmmkajfliijamipnlg?hl=en-US&utm_source=ext_sidebar) · 
-[Trakteer ↗](https://trakteer.id/ainurkz/tip)
+<a href="https://yoruuta.vercel.app/" target="_blank" rel="noopener noreferrer">Yoruuta ↗</a> · 
+<a href="https://sasayaki-lrclib-publisher.vercel.app/" target="_blank" rel="noopener noreferrer">Sasayaki ↗</a> · 
+<a href="https://chromewebstore.google.com/detail/ednmohnomlpjchgmmkajfliijamipnlg?utm_source=item-share-cb" target="_blank" rel="noopener noreferrer">Yoruuta-ext ↗</a> · 
+<a href="https://trakteer.id/ainurkz/tip" target="_blank" rel="noopener noreferrer">Trakteer ↗</a>
 
 <br>
 ---
