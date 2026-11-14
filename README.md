@@ -29,26 +29,13 @@ Things I make
 
 A few experiments, some unfinished thoughts, and projects worth keeping.
 
-You're welcome to stop by.
-[Yoruuta ↗](https://yoruuta.vercel.app/)
-[Sasayaki ↗](https://sasayaki-lrclib-publisher.vercel.app/)
-[Yoruuta-ext ↗](https://chromewebstore.google.com/detail/lrclib-lyrics-for-youtube/ednmohnomlpjchgmmkajfliijamipnlg?hl=en-US&utm_source=ext_sidebar)
-<a href="https://trakteer.id/ainurkz/tip" target="_blank">
-  <img
-    id="wse-buttons-preview"
-    src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023"
-    height="40"
-    style="border: 0px; height: 40px; --darkreader-inline-border-top: 0px; --darkreader-inline-border-right: 0px; --darkreader-inline-border-bottom: 0px; --darkreader-inline-border-left: 0px;"
-    alt="Traktir tahu bakso"
-    data-darkreader-inline-border-top=""
-    data-darkreader-inline-border-right=""
-    data-darkreader-inline-border-bottom=""
-    data-darkreader-inline-border-left=""
-  />
-</a>
+You're welcome to stop by.<br>
+[Yoruuta ↗](https://yoruuta.vercel.app/) · 
+[Sasayaki ↗](https://sasayaki-lrclib-publisher.vercel.app/) · 
+[Yoruuta-ext ↗](https://chromewebstore.google.com/detail/lrclib-lyrics-for-youtube/ednmohnomlpjchgmmkajfliijamipnlg?hl=en-US&utm_source=ext_sidebar) · 
+[Trakteer ↗](https://trakteer.id/ainurkz/tip)
 
-Sometimes coding feels like late autumn wind, cold, quiet, and somehow still pushing me forward.
-
+<br>
 ---
 <span style="font-size:12px;color:gray;">_Sometimes coding feels like late autumn wind_<br>
 _cold, quiet, and somehow still pushing me forward._
