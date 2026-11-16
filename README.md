@@ -28,8 +28,6 @@
 
 ## A quiet place for things I'm building.
 
-Things I make
-
 A few experiments, some unfinished thoughts, and projects worth keeping.
 
 You're welcome to stop by.<br>
